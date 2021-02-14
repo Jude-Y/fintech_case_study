@@ -45,7 +45,7 @@ There have been concerns around the high consumption of electricity by Bitfarms 
 
 My recommendation would be to install solar panels that can be used to reduce the usage of  hydroelectricity. 
 
-This can reduce the cost that are associated with electricity and can take away the negative attention that they have been receiving from the media and hydro quebec. 
+This can further reduce costs that are associated with electricity and can take away the negative attention that they have been receiving from hydroquebec in the media.
 
 
 
