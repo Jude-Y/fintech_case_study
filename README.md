@@ -2,7 +2,7 @@
 ![image](blockchain_technology.jpg)
 ## Overview and Origin
 
-Bitfarms Limited owns and operates a number of large computing centres that power the global decentralized financial economy. In particular, Bitfarms operates five computing centres across Quebec, Canada. Each mining facility is powered by clean and low cost renewable hydro power. Further, the company provides computing power to cryptocurrency networks such as Bitcoin where it earns fees from each network for securing and processing transactions. 
+Bitfarms Limited owns and operates a number of large computing centres that power the global decentralized financial economy. In particular, Bitfarms operates five computing centres across Quebec, Canada. Further, the company provides computing power to cryptocurrency networks such as Bitcoin where it earns fees from each network for securing and processing transactions. 
  
 Bitfarms began its operations in 2017. The company was established by Mathieu Vachon, Emiliano Grodzki and Nicolas Bonta. The company's management team and capital market professionals focus on developing the most efficient ecosystem in relation to blockchain-based technologies. 
 
@@ -63,5 +63,3 @@ https://bitfarms.com/app/uploads/2020/12/Bitfarms_Dec_2020_presentation-Web-Fina
 
 
 https://financialpost.com/technology/quebecs-bitfarms-rallies-as-bitcoin-soars-but-concerns-grow-over-cryptominers-massive-electricity-needs
-
-
